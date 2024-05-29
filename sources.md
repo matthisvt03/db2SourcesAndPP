@@ -8,7 +8,9 @@ https://www.mongodb.com/docs/manual/core/sharded-cluster-shards/​
 
 https://www.mongodb.com/docs/manual/replication/
 
-https://www.mongodb.com/docs/manual/core/read-isolation-consistency-recency/​ https://www.mongodb.com/docs/manual/core/causal-consistency-read-write-concerns/t. With multiple replica sets the default is eventual consistency
+https://www.mongodb.com/docs/manual/core/read-isolation-consistency-recency/​ 
+
+https://www.mongodb.com/docs/manual/core/causal-consistency-read-write-concerns
 
 https://www.mongodb.com/docs/manual/security/​
 
